@@ -1,0 +1,30 @@
+img#logo {
+    width: auto;
+    height: 50px;
+}
+div#div_bg {
+    background: black;
+    height: 1100px;
+    background-image: url(../image/image.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+.bg-light {
+    background-color: #494949!important;
+}
+a.nav-link {
+    color: white!important;
+}
+.card-header.card-form {
+    background-color:#fa9900;
+    color: white;
+}
+img#card_logo {
+    z-index: 9999;
+    margin-bottom: -40px;
+    width: 400px;
+}
+.card.mt-5 {
+    border: none;
+}
